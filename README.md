@@ -3,9 +3,11 @@
 Benvenuti nel mio profilo GitHub.
 
 🎯 Sono un'**analista programmatore senior** con esperienza in diversi ambienti di sviluppo, specializzato in:
+- 🏢 RPG / RPG IV / RPG ILE / RPGLE SQL embedded
 - 💻 JavaScript / TypeScript
+- 💻 PHP
 - 💻 node.js
-- 🏢 RPG / RPG ILE / SQLRPGLE
+
 
 Attualmente lavoro su **vari progetti** che spaziano tra modernizzazione del software legacy e sviluppo frontend e backend.
 
